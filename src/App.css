@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+.container-left{
+    width: 25%;
+    height: 100vh;
+}
+
+.select-btn{
+    margin-left: 23%;
+    margin-top:40px;
+    left: 40px;
+    font-size: 1em;
+    border-radius: 50px;
+    background: #000;
+    color: #fff;
+}
+
+.container-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 75%;
+    background-color: #f7ecdc;
+
+}
+
+
+
+
+
+
+
+
